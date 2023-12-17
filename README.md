@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @joedrozd
+👋 Hi, I’m @joedrozd
+
+
 Professional Profile
 I am a confident and friendly individual with a passion for web development and a knack for solving programming problems. Whether working collaboratively in a team or independently, I thrive under pressure and am committed to ensuring efficiency and accuracy in my work. My adaptability and patience have consistently proven valuable in dynamic work environments.
 
