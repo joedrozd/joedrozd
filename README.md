@@ -22,12 +22,7 @@ November 2021 – January 2022
 Learning Java, Python, MySQL, and soft skills.
 Work Experience
 OSB Group Full-stack Developer
-
-December 2022 – Current
-Junior Web Developer
-
-OSB Group
-February 2022 – December 2022
+February 2022 – Current
 Technical Proficiencies
 Web Development:
 
