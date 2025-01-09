@@ -20,8 +20,10 @@ Software Development Bootcamp
 QA Limited Software Development Bootcamp
 November 2021 – January 2022
 Learning Java, Python, MySQL, and soft skills.
+
 Work Experience
-OSB Group Full-stack Developer
+
+OSB Group Senior Full-stack Developer
 February 2022 – Current
 Technical Proficiencies
 Web Development:
