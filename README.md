@@ -69,7 +69,8 @@ I’m passionate about clean, efficient code and continuous learning — always 
 📫 **Let’s Connect!**  
 [🔗 LinkedIn Profile]([#](https://www.linkedin.com/in/joseph-d-a17664151))
 [💻 GitHub Repositories](https://github.com/joedrozd)
-[Portfolio - Glitch Doctor](https:glitchdoctor.co.uk)
+
+[Portfolio - Glitch Doctor](https://glitchdoctor.co.uk)
 ---
 
 > _This README is a brief overview of my professional background. For a detailed look at my experience and achievements, please visit my LinkedIn profile._
