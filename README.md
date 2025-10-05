@@ -67,7 +67,7 @@ I’m passionate about clean, efficient code and continuous learning — always 
 ---
 
 📫 **Let’s Connect!**  
-[🔗 LinkedIn Profile]((https://www.linkedin.com/in/joseph-d-a17664151))
+[🔗 LinkedIn Profile]((https://www.linkedin.com/in/joseph-d-a17664151)
 
 [💻 GitHub Repositories](https://github.com/joedrozd)
 
