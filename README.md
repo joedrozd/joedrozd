@@ -1,60 +1,78 @@
-👋 Hi, I’m @joedrozd
+## 👋 Hi, I’m **Joe Drozd**
 
+### 💻 Full-Stack Developer | CMS Specialist | Problem Solver
 
-Professional Profile
-I am a confident and friendly individual with a passion for web development and a knack for solving programming problems. Whether working collaboratively in a team or independently, I thrive under pressure and am committed to ensuring efficiency and accuracy in my work. My adaptability and patience have consistently proven valuable in dynamic work environments.
+I’m a confident and friendly developer with a strong passion for **web development** and a talent for **solving programming challenges**. Whether working independently or as part of a team, I take pride in delivering efficient, accurate, and scalable solutions. My adaptability and patience allow me to thrive in dynamic, fast-paced environments.  
 
-Education
-PDip Engineering Management
+---
 
-University of Leeds
-September 2020 – March 2023
-Achieved Merit
-Note: Graduation date pending
-BEng Chemical Engineering with Hons
+### 🎓 **Education**
 
-Aston University
-September 2014 – September 2018
-Achieved 2:2
-Software Development Bootcamp
-QA Limited Software Development Bootcamp
-November 2021 – January 2022
-Learning Java, Python, MySQL, and soft skills.
+**📘 Postgraduate Diploma – Engineering Management**  
+*University of Leeds*  
+📅 September 2020 – March 2023  
+🎖️ Achieved Merit  
+*Note: Graduation date pending*  
 
-Work Experience
+**🔧 BEng Chemical Engineering (Hons)**  
+*Aston University*  
+📅 September 2014 – September 2018  
+🎓 Achieved 2:2  
 
-OSB Group Senior Full-stack Developer
-February 2022 – Current
-Technical Proficiencies
-Web Development:
+**💡 Software Development Bootcamp**  
+*QA Limited Software Development Bootcamp*  
+📅 November 2021 – January 2022  
+🧠 Focus: Java, Python, MySQL, and Professional Soft Skills  
 
-HTML, CSS, JavaScript, jQuery
-Backend Technologies:
+---
 
-ASP.NET, C#, NodeJS, Flask (Python)
-Frontend Frameworks:
+### 💼 **Professional Experience**
 
-ReactJS
-Database Management:
+**Senior Full-Stack Developer — OSB Group**  
+📅 February 2022 – Present  
 
-MongoDB, SQLite
-Content Management System (CMS):
+- 🔧 Solely responsible for managing and updating **five key websites**, ensuring performance, stability, and user satisfaction.  
+- 🌐 Specialized in **Umbraco CMS (including Umbraco Cloud)** — developing, deploying, and maintaining custom content solutions.  
+- 🚀 Lead developer for **Digital Marketing Department projects**, driving initiatives from conception to completion.  
+- 🧩 Skilled in **version control** with TeamCity, TortoiseSVN, and Git — ensuring smooth CI/CD and collaboration.  
+- 🤝 Experienced in **cross-functional collaboration**, bridging marketing, design, and development teams.  
 
-Umbraco (Specialized in Umbraco Cloud)
-Professional Experience
-Website Management:
+---
 
-Solely responsible for overseeing and implementing updates across five pivotal websites, ensuring optimal performance and user experience.
-Version Control Expertise:
+### 🧠 **Technical Proficiencies**
 
-Proficient in TeamCity, Tortoise SVN, and Git, ensuring seamless code integration and collaboration.
-Project Leadership:
+#### **Frontend**
+- HTML, CSS, JavaScript, jQuery  
+- ReactJS - NextJS - C# .NET MVC
+- Umbraco
 
-Entrusted as the project’s developer for the Digital Marketing Department, driving projects from conception to completion.
-CMS Specialization:
+#### **Backend**
+- .NET (C#), Node.js, Flask (Python)  
 
-In-depth knowledge and hands-on experience with Umbraco, a C# CMS tailored for developers, with a focus on Umbraco Cloud.
-Note: This README file is a brief summary of my professional and educational background. For a more detailed overview of my skills and experience, please refer to my LinkedIn profile.
+#### **Databases**
+- MongoDB, SQLite, PostgreSQL, SQL
+
+#### **CMS**
+- Umbraco (including **Umbraco Cloud**) , WordPress
+
+#### **Version Control & CI/CD**
+- Git, Azure Devops, TeamCity, TortoiseSVN  
+
+---
+
+### 🌱 **About Me**
+
+I’m passionate about clean, efficient code and continuous learning — always exploring new technologies and improving workflows. I take pride in developing user-focused, reliable web solutions that make a real impact.
+
+---
+
+📫 **Let’s Connect!**  
+[🔗 LinkedIn Profile]([#](https://www.linkedin.com/in/joseph-d-a17664151))
+[💻 GitHub Repositories](https://github.com/joedrozd)
+[Portfolio - Glitch Doctor](https:glitchdoctor.co.uk)
+---
+
+> _This README is a brief overview of my professional background. For a detailed look at my experience and achievements, please visit my LinkedIn profile._
 
 <!---
 joedrozd/joedrozd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
