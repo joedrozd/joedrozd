@@ -6,6 +6,40 @@ I’m a confident and friendly developer with a strong passion for **web develop
 
 ---
 
+### Websites 
+
+---
+
+## 🌟 [GanttGenAI](https://ganttgenai.co.uk)
+**AI-Powered Project Management**  
+Streamline your workflow with smart Gantt charts that update automatically. Plan tasks, track dependencies, and optimize your team’s productivity effortlessly.
+
+---
+
+## 🦸‍♂️ [CyberHeroes](https://cyberheroes.co.uk)
+**Learn Cybersecurity Through Gamification**  
+Engage in interactive challenges and missions to build real-world cybersecurity skills in a fun and practical way.
+
+---
+
+## 🤖 [GlitchDoctor](https://glitchdoctor.co.uk)
+**AI Customer Support & Automation**  
+An AI assistant that helps businesses streamline support, automate tasks, and provide fast, accurate responses to users.
+
+---
+
+## ⏱️ [CalmGrind](https://calmgrind.com)
+**Productivity & Focus Tracker**  
+Track your work, analyze productivity patterns, and build sustainable habits to stay focused and achieve more every day.
+
+---
+
+## 🎯 [ActivityGenerator](https://activitygenerator.co.uk)
+**Randomized Activity & Task Planner**  
+Generate creative tasks and activities for your team or personal projects. Perfect for brainstorming, workshops, or gamified workflows.
+
+---
+
 ### 🎓 **Education**
 
 **📘 Postgraduate Diploma – Engineering Management**  
