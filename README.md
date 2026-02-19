@@ -17,26 +17,22 @@ Streamline your workflow with smart Gantt charts that update automatically. Plan
 ---
 
 ## 🦸‍♂️ [CyberHeroes](https://cyberheroes.co.uk)
-**Learn Cybersecurity Through Gamification**  
-Engage in interactive challenges and missions to build real-world cybersecurity skills in a fun and practical way.
+**Learn Cybersecurity, Remote working, and anything tech**  
 
 ---
 
 ## 🤖 [GlitchDoctor](https://glitchdoctor.co.uk)
-**AI Customer Support & Automation**  
-An AI assistant that helps businesses streamline support, automate tasks, and provide fast, accurate responses to users.
+**Portfolio**  
 
 ---
 
 ## ⏱️ [CalmGrind](https://calmgrind.com)
-**Productivity & Focus Tracker**  
-Track your work, analyze productivity patterns, and build sustainable habits to stay focused and achieve more every day.
+**Productivity & Focus Content**  
 
 ---
 
 ## 🎯 [ActivityGenerator](https://activitygenerator.co.uk)
 **Randomized Activity & Task Planner**  
-Generate creative tasks and activities for your team or personal projects. Perfect for brainstorming, workshops, or gamified workflows.
 
 ---
 
